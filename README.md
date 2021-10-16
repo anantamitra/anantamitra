@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anantamitra
+- 👋 Hi, I’m Ananta
 - 👀 I’m interested in Java, Web Development, UI
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me joyg4979@gmail.com
