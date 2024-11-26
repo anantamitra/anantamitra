@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananta
-- 👀 I’m interested in Java, Web Development, UI
-- 🌱 I’m currently learning Spring Boot
+- 👀 I’m interested in Python, Web Development, UI
+- 🌱 I’m currently learning Devops
 - 📫 How to reach me joyg4979@gmail.com
 
 <!---
